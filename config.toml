@@ -104,14 +104,14 @@ version = "0.0"
 # point people to the main doc site.
 url_latest_version = "https://example.com"
 
-# Repository configuration (URLs for in-page links to opening issues and suggesting changes)
+# Repository configuration (URLs for in-page links to opening issues and changes)
 # todo update repo url
 github_repo = "https://github.com/stumbo/stumbo.gitlab.io"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 # github_project_repo = "https://github.com/interlistp"
 
 # Specify a value here if your content directory is not in your repo's root directory
-github_subdir = "Hugo"
+#github_subdir = "Hugo"
 
 # Uncomment this if you have a newer GitHub repo with "main" as the default branch,
 # or specify a new value if you want to reference another branch in your GitHub links
