@@ -1,4 +1,4 @@
-baseURL = "https://stumbo.github.io/Hugo"
+baseURL = "https://stumbo.github.io/hugo"
 title = "Interlisp Medley Project"
 
 enableRobotsTXT = true
@@ -111,7 +111,7 @@ github_repo = "https://github.com/stumbo/stumbo.gitlab.io"
 # github_project_repo = "https://github.com/interlistp"
 
 # Specify a value here if your content directory is not in your repo's root directory
-# github_subdir = "Hugo"
+github_subdir = "Hugo"
 
 # Uncomment this if you have a newer GitHub repo with "main" as the default branch,
 # or specify a new value if you want to reference another branch in your GitHub links
