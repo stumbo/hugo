@@ -1,4 +1,4 @@
-baseURL = "https://stumbo.github.io/"
+baseURL = "https://stumbo.github.io/Hugo"
 title = "Interlisp Medley Project"
 
 enableRobotsTXT = true

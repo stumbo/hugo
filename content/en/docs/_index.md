@@ -28,7 +28,6 @@ menu:
 
 * <a href="/documentation/1992-02-An_Introduction_to_Medley_Release_2.0.pdf" target="_blank">Introduction to Medley, Release 2.0</a>
 
-- [Introduction to Medley Release 2.0](https://github.com/Interlisp/history/blob/master/docs/1992-02-An_Introduction_to_Medley_Release_2.0.pdf)
 {% file src="../.gitbook/assets/1986-interlisp-language-book-1.pdf" %} Interlisp: The Language and its Usage {% endfile %}
 
 {% file src="../.gitbook/assets/20211225-interlisp-book-2.pdf" %}
