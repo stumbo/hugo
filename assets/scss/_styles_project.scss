@@ -1,5 +1,15 @@
-svg {
-	display: inline-block;
-	margin: 0 10px;
-	height: 40px;
-}
+  .navbar-brand {
+        text-transform: none;
+        text-align: middle;
+
+        .nav-link {
+            display: inline-block;
+            margin-right: -30px;
+        }
+
+        svg {
+            display: inline-block;
+            margin: 0 10px;
+            height: 40px;
+        }
+    }
